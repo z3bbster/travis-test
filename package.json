@@ -6,6 +6,10 @@
   "scripts": {
     "test": "gulp travis --verbose"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/z3bbster/travis-test.git"
+  },
   "keywords": [],
   "author": "z3bbster",
   "license": "ISC",
